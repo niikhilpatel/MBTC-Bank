@@ -15,3 +15,7 @@ npm create vite@latest
 ```sh
 npm install
 ```
+
+```sh
+npm run dev
+```
